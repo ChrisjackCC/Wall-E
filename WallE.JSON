@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "author": "Chris Jack",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2001.png",
+      "name": "Wall 01",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2001(01).jpg"
+    },
+    {
+      "author": "Chris Jack",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2002.png",
+      "name": "Wall 02",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2002(02).jpg"
+    }
+  ]
+}
