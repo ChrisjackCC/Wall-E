@@ -11,6 +11,24 @@
       "url": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2002.png",
       "name": "Wall 02",
       "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2002(02).jpg"
-    }
+   },
+    {
+      "author": "Chris Jack",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2003.png",
+      "name": "Wall 03",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2003(03).jpg"
+      },
+    {
+      "author": "Chris Jack",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2004.png",
+      "name": "Wall 04",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2004(04).jpg"
+      },
+    {
+      "author": "Chris Jack",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2005.png",
+      "name": "Wall 05",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/Wall-E/main/Wall%2005(05).jpg"
+ }
   ]
 }
